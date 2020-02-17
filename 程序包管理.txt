@@ -1,6 +1,6 @@
 程序管理：
 rpm工具使用
-
+fgfgfgfg
    rpm  包管理
 安装：
       rpm -i  <package_file>
